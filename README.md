@@ -1,6 +1,7 @@
 # Memory Game Project
 The game randomly shuffles the cards. A user wins once all cards have successfully been matched.
-
+## Live Demo
+https://zoidev.github.io/Memory-game/
 ## Installing
 - Clone the repository or download the zip folder of the project 
 - Open the file ```index.html``` in your browser
@@ -12,7 +13,7 @@ The game randomly shuffles the cards. A user wins once all cards have successful
 4. If they don't they will turn over
 5. Once you find all the matches a pop-up window will inform you about your score (stars, time and moves)
 
-             ***Your Challenge is to match cards in less time with less moves.***
+             Your Challenge is to match cards in less time with less moves.
 
 
 ## Instructions for Developers
